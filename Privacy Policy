@@ -1,45 +1,60 @@
-1. Information We Collect
-We, the developer, do not directly collect, request, or store any personally identifiable information such as your name, email address, phone number, or precise location.
+Privacy Policy
 
-Data stored on your device
-Your game progress (such as cash, level, store layout, settings, and purchase status) is saved locally on your device using the device's local storage. This data never leaves your device, is not transmitted to us, and is removed if you uninstall the Game or clear its data.
+Supermarket Boss: Tycoon · Vainsteel Studios · Last updated: October 20, 2026
 
-Data processed by third-party services
-The Game integrates the following third-party services, which may collect and process certain data in accordance with their own privacy policies:
+Short version. Supermarket Boss: Tycoon has no accounts and no sign-up. We, the developer, do not collect your name, email address, phone number or precise location, and we do not run our own servers. Your progress is saved on your device. Ads, in-app purchases and the optional cloud save are handled by Google and Apple, which process limited data under their own privacy policies.
 
-Google AdMob (advertising). AdMob may collect and use a device advertising identifier and related data to serve and measure ads, including limited data such as device type, general (coarse) location derived from IP address, and ad interaction data. See the Google Privacy Policy and how Google uses data.
-Google Play Billing (in-app purchases). When you make an optional purchase, the transaction is processed by Google Play. We receive only confirmation that a purchase was completed — we never receive or store your payment card details.
-Google Play Services. Standard services that support app functionality, distribution, and crash/stability reporting.
-2. How Information Is Used
-To save and restore your game progress locally on your device.
-To display advertisements (including optional rewarded ads you choose to watch).
-To process optional in-app purchases you choose to make.
-To maintain, secure, and improve the stability of the Game.
-3. Advertising
-The Game is free and supported by ads served through Google AdMob. Some ads are rewarded ads that you may optionally choose to watch in exchange for in-game bonuses. Depending on your region and settings, ads may be personalized or non-personalized. You can control ad personalization and reset your advertising identifier through your device settings (for example, Settings → Google → Ads on Android).
+Who we are
+Supermarket Boss: Tycoon (Android package / iOS bundle ID: com.vainsteel.supermarket) is developed and published by Vainsteel Studios. This policy applies to the Android version distributed on Google Play and the iOS/iPadOS version distributed on the Apple App Store.
 
-4. In-App Purchases
-The Game offers optional in-app purchases (such as starter packs, coin packs, and support items). Purchases are entirely optional and are processed securely by Google Play. We do not have access to your financial information. Purchases are subject to the Google Play Terms of Service.
+Information stored on your device
+The game saves your progress locally on your device using standard app storage. This includes:
+game state — cash, gold, stores, shelves and their layout, staff, upgrades, research, quests, league progress and achievements;
+preferences — language, sound, music, vibration and zoom settings;
+purchase flags — whether you own the Starter Pack or the Supporter Pack, and whether end-of-day ads are removed.
+This data stays on your device. We do not upload it to our own servers and we cannot read it. Uninstalling the game or clearing its data deletes it.
 
-5. Children's Privacy
-We do not knowingly collect personal information from children. The Game is designed to be family-friendly. Where required, ads are configured to be served in a manner appropriate for a general audience. If you believe a child has provided personal information through a third-party service integrated in the Game, please contact us and we will assist in directing you to the appropriate service provider.
+Optional cloud save (Android only)
+On Android you can choose to connect the game to Google Play Games Services ("Cloud Save" in Settings). If you do, a copy of your game save is stored in the Saved Games area of your own Google Play Games account so that you can restore it on another device. This copy contains only the game data listed in section 2. It is stored and protected by Google under the Google Privacy Policy; we cannot access your Google account. You can delete Play Games data at any time from the Google Play Games app or your Google Account settings. The iOS version does not use any cloud save service.
 
-6. Data Sharing
-We do not sell, rent, or trade any information. The only data processing that occurs is carried out by the third-party services listed in Section 1, each acting under its own privacy policy. We do not share any data with any other parties.
+Advertising
+The game is free and supported by ads served through Google AdMob, including optional rewarded ads that you choose to watch in exchange for in-game bonuses, and occasional end-of-day ads.
+To serve and measure ads, Google may process:
+your device's advertising identifier (Android Advertising ID, or Apple IDFA on iOS — only if you allow tracking);
+coarse technical information such as device model, operating system version, language and approximate region derived from your IP address;
+ad interaction data, such as whether an ad was shown, viewed or clicked.
+We do not receive, store or sell this data.
+Consent. Users in the European Economic Area, the United Kingdom and Switzerland are shown Google's consent form before personalised ads are used, and can change their choice at any time under Settings → Privacy options in the game.
 
-7. Data Retention and Deletion
-Because game data is stored only on your device, you can delete it at any time by clearing the Game's data or uninstalling the Game. Data processed by Google (AdMob, Play Billing, Play Services) is retained and can be managed according to your Google Account controls and Google's policies.
+iOS App Tracking Transparency. On iOS, the game asks for your permission before the advertising identifier (IDFA) may be used for tracking. If you choose "Ask App Not to Track", only non-personalised or contextual ads are shown. You can change this at any time in iOS Settings → Privacy & Security → Tracking.
+Any purchase in the game permanently removes end-of-day ads. Rewarded ads remain optional.
+Learn more: Google Privacy Policy (https://policies.google.com/privacy) and How Google uses information from apps that use its services (https://policies.google.com/technologies/partner-sites).
 
-8. Security
-We take reasonable measures to protect the Game. However, no method of electronic storage or transmission is completely secure, and we cannot guarantee absolute security.
+In-app purchases
+The game offers optional in-app purchases (gold packs, Piggy Bank, Starter Pack, Supporter Pack). Purchases are processed entirely by Google Play Billing on Android and by the Apple App Store on iOS. We never see or store your payment card, billing address or store account details; the store only tells the game whether a purchase was completed, which the game records locally. Purchases are subject to the Google Play Terms of Service or Apple's Media Services Terms. Non-consumable purchases (Starter Pack, Supporter Pack) can be restored at any time via Settings → Restore Purchases.
 
-9. Changes to This Policy
-We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last updated" date. Continued use of the Game after changes take effect constitutes acceptance of the revised policy.
+Notifications
+With your permission, the game schedules local reminders on your device (for example, when a seasonal event starts or a daily reward is ready). These are created on the device itself; no personal data is sent to us or to a push-notification server. You can turn them off in your device's notification settings.
 
-10. Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
+Permissions
+The game uses internet access to load ads, process purchases and (on Android, if you choose) sync your cloud save. It does not access your contacts, camera, microphone, photos, files or precise location.
 
-Vainsteel Studios
-Email: vainsteelstudios@gmail.com
+Children
+The game is not directed at children under 13, and we do not knowingly collect personal information from children. If you believe a child has provided personal information to a third-party service through this game, please contact us and we will help you reach the relevant provider.
 
+Data sharing and retention
+We do not sell, rent or trade any information, and we do not hold personal data on our own servers. The only processing is carried out by Google (AdMob, Play Billing, Play Games Services) and Apple (App Store) under their own policies. Because we keep no personal data, there is nothing for us to retain, export or erase on your behalf; you stay in control:
+Erase game data — uninstall the game or clear its data.
+Erase cloud save (Android) — delete it from Google Play Games / your Google Account.
+Limit ad personalisation — use Settings → Privacy options in the game, reset your advertising ID (Android) or disable tracking (iOS).
+Depending on where you live (for example under the GDPR or the CCPA), you may have rights to access, correct or delete personal data held about you; for data processed by Google or Apple, please use their tools, and contact us if you need help.
+
+Security
+We take reasonable measures to protect the game. However, no method of electronic storage or transmission is completely secure.
+
+Changes to this policy
+If this policy changes, the updated version will be published at this address and the "Last updated" date above will change.
+
+Contact
+Vainsteel Studios — vainsteelstudios@gmail.com
 © 2026 Vainsteel Studios. Supermarket Boss: Tycoon. All rights reserved.
